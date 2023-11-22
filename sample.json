@@ -1,0 +1,405 @@
+[
+    {
+        "_id": "6557abaffade734189ab680e",
+        "Questions": "What is the speed of light",
+        "Subject": "Physics",
+        "Topic": "Waves",
+        "Difficulty": "Easy",
+        "Marks": 5,
+        "__v": 0
+    },
+    {
+        "_id": "6557ad5afade734189ab6810",
+        "Questions": "What is 2 + 2?",
+        "Subject": "Maths",
+        "Topic": "Arithmatic",
+        "Difficulty": "Easy",
+        "Marks": 5,
+        "__v": 0
+    },
+    {
+        "_id": "6557ad99fade734189ab6812",
+        "Questions": "Who wrote 'Romeo and Juliet'?",
+        "Subject": "Literature",
+        "Topic": "Drama",
+        "Difficulty": "Easy",
+        "Marks": 5,
+        "__v": 0
+    },
+    {
+        "_id": "6557add6fade734189ab6814",
+        "Questions": "What is the capital of Australia?",
+        "Subject": "General knowledge",
+        "Topic": "Geography",
+        "Difficulty": "Easy",
+        "Marks": 5,
+        "__v": 0
+    },
+    {
+        "_id": "6557ae0ffade734189ab6816",
+        "Questions": "Power house of cell?",
+        "Subject": "Biology",
+        "Topic": "cell",
+        "Difficulty": "Moderate",
+        "Marks": 10,
+        "__v": 0
+    },
+    {
+        "_id": "6557ae4afade734189ab6818",
+        "Questions": "What are the key principles behind blockchain technology?",
+        "Subject": "Software",
+        "Topic": "Tech",
+        "Difficulty": "Moderate",
+        "Marks": 10,
+        "__v": 0
+    },
+    {
+        "_id": "6557ae8afade734189ab681a",
+        "Questions": "What is the capital of France?",
+        "Subject": "General Knowledge",
+        "Topic": "Geography",
+        "Difficulty": "Easy",
+        "Marks": 5,
+        "__v": 0
+    },
+    {
+        "_id": "6557ae98fade734189ab681c",
+        "Questions": "What is the capital of India?",
+        "Subject": "General Knowledge",
+        "Topic": "Geography",
+        "Difficulty": "Easy",
+        "Marks": 5,
+        "__v": 0
+    },
+    {
+        "_id": "6557aea0fade734189ab681e",
+        "Questions": "What is the capital of Nepal?",
+        "Subject": "General Knowledge",
+        "Topic": "Geography",
+        "Difficulty": "Easy",
+        "Marks": 5,
+        "__v": 0
+    },
+    {
+        "_id": "6557aeb8fade734189ab6820",
+        "Questions": "What is the capital of England?",
+        "Subject": "General Knowledge",
+        "Topic": "Geography",
+        "Difficulty": "Easy",
+        "Marks": 5,
+        "__v": 0
+    },
+    {
+        "_id": "6557aed5fade734189ab6822",
+        "Questions": "What is 5+2",
+        "Subject": "Maths",
+        "Topic": "Arithmatic",
+        "Difficulty": "Easy",
+        "Marks": 5,
+        "__v": 0
+    },
+    {
+        "_id": "6557aedcfade734189ab6824",
+        "Questions": "What is 10+2",
+        "Subject": "Maths",
+        "Topic": "Arithmatic",
+        "Difficulty": "Easy",
+        "Marks": 5,
+        "__v": 0
+    },
+    {
+        "_id": "6557aee8fade734189ab6826",
+        "Questions": "What is 10+5 ?",
+        "Subject": "Maths",
+        "Topic": "Arithmatic",
+        "Difficulty": "Easy",
+        "Marks": 5,
+        "__v": 0
+    },
+    {
+        "_id": "6557aef3fade734189ab6828",
+        "Questions": "What is 100+5 ?",
+        "Subject": "Maths",
+        "Topic": "Arithmatic",
+        "Difficulty": "Easy",
+        "Marks": 5,
+        "__v": 0
+    },
+    {
+        "_id": "6557aefafade734189ab682a",
+        "Questions": "What is 109+5 ?",
+        "Subject": "Maths",
+        "Topic": "Arithmatic",
+        "Difficulty": "Easy",
+        "Marks": 5,
+        "__v": 0
+    },
+    {
+        "_id": "6557af67fade734189ab682c",
+        "Questions": "Who painted the Mona Lisa? ?",
+        "Subject": "General Knowledge",
+        "Topic": "Art",
+        "Difficulty": "Easy",
+        "Marks": 5,
+        "__v": 0
+    },
+    {
+        "_id": "6557afaffade734189ab682e",
+        "Questions": "What is the process of turning water vapor into liquid water called ?",
+        "Subject": "Science",
+        "Topic": "physics",
+        "Difficulty": "Easy",
+        "Marks": 5,
+        "__v": 0
+    },
+    {
+        "_id": "6557b01afade734189ab6830",
+        "Questions": "Who developed the theory of relativity?",
+        "Subject": "Physics",
+        "Topic": "Astrophysics",
+        "Difficulty": "Moderate",
+        "Marks": 10,
+        "__v": 0
+    },
+    {
+        "_id": "6557b1a4fade734189ab6832",
+        "Questions": " An examination of dead body? ",
+        "Subject": "General knowledge",
+        "Topic": "English",
+        "Difficulty": "Easy",
+        "Marks": 5,
+        "__v": 0
+    },
+    {
+        "_id": "6557b1e2fade734189ab6834",
+        "Questions": "  A person who regards the whole world as his country? ",
+        "Subject": "General knowledge",
+        "Topic": "English",
+        "Difficulty": "Easy",
+        "Marks": 5,
+        "__v": 0
+    },
+    {
+        "_id": "6557b3d6fade734189ab6836",
+        "Questions": " How many men have walked on the moon?? ",
+        "Subject": "General knowledge",
+        "Topic": "Astrophysics",
+        "Difficulty": "Hard",
+        "Marks": 15,
+        "__v": 0
+    },
+    {
+        "_id": "6557b433fade734189ab6838",
+        "Questions": "What is another name for the Paleolithic Age? ",
+        "Subject": "History",
+        "Topic": "History",
+        "Difficulty": "Hard",
+        "Marks": 15,
+        "__v": 0
+    },
+    {
+        "_id": "6557b47bfade734189ab683a",
+        "Questions": "What colorless, pungent gas is often dissolved in water to yield a solution that is used as a biological preservative? ",
+        "Subject": "Chemistry",
+        "Topic": "Chemistry",
+        "Difficulty": "Hard",
+        "Marks": 15,
+        "__v": 0
+    },
+    {
+        "_id": "6557b49dfade734189ab683c",
+        "Questions": "What yellow metal is an alloy of copper and zinc?",
+        "Subject": "Chemistry",
+        "Topic": "Chemistry",
+        "Difficulty": "Moderate",
+        "Marks": 10,
+        "__v": 0
+    },
+    {
+        "_id": "6557b4befade734189ab683e",
+        "Questions": "What is the name for steel alloyed with chromium? ",
+        "Subject": "Chemistry",
+        "Topic": "Metallurgy",
+        "Difficulty": "Moderate",
+        "Marks": 10,
+        "__v": 0
+    },
+    {
+        "_id": "6557b4f4fade734189ab6840",
+        "Questions": "Name the first woman to travel in space ?",
+        "Subject": "Astrophysics",
+        "Topic": "Astrophysics",
+        "Difficulty": "Moderate",
+        "Marks": 10,
+        "__v": 0
+    },
+    {
+        "_id": "6557b54dfade734189ab6842",
+        "Questions": "What compound is a common component of air pollution, but is essential in the upper atmosphere to protect life on earth? ",
+        "Subject": "Physics",
+        "Topic": "Physics",
+        "Difficulty": "Moderate",
+        "Marks": 10,
+        "__v": 0
+    },
+    {
+        "_id": "6557b5c9fade734189ab6844",
+        "Questions": "Which continent has the largest KNOWN deposits of coal? ",
+        "Subject": "General knowledge",
+        "Topic": "Geography",
+        "Difficulty": "Hard",
+        "Marks": 15,
+        "__v": 0
+    },
+    {
+        "_id": "6557b616fade734189ab6846",
+        "Questions": "The acronym NEPA stands for what? ",
+        "Subject": "General knowledge",
+        "Topic": "Awareness",
+        "Difficulty": "Hard",
+        "Marks": 15,
+        "__v": 0
+    },
+    {
+        "_id": "6557b62efade734189ab6848",
+        "Questions": "The largest breeder reactor built to date is located where? ",
+        "Subject": "General knowledge",
+        "Topic": "Awareness",
+        "Difficulty": "Hard",
+        "Marks": 15,
+        "__v": 0
+    },
+    {
+        "_id": "6557b679fade734189ab684a",
+        "Questions": "Name the effect that is caused by scattering of light in colloids or suspensions? ",
+        "Subject": "General knowledge",
+        "Topic": "Physics",
+        "Difficulty": "Hard",
+        "Marks": 15,
+        "__v": 0
+    },
+    {
+        "_id": "6557b6a8fade734189ab684c",
+        "Questions": ": Name the California scientist who won the Nobel Prize in 1962 for elucidating the details of the photosynthetic process? ",
+        "Subject": "General knowledge",
+        "Topic": "Current Affairs",
+        "Difficulty": "Hard",
+        "Marks": 15,
+        "__v": 0
+    },
+    {
+        "_id": "6557b6d6fade734189ab684e",
+        "Questions": "Most commercial nuclear power plants worldwide are cooled by? ",
+        "Subject": "General knowledge",
+        "Topic": "Current Affairs",
+        "Difficulty": "Hard",
+        "Marks": 15,
+        "__v": 0
+    },
+    {
+        "_id": "6557b764fade734189ab6850",
+        "Questions": "The uranium fuel used worldwide is mainly in the form of ? ",
+        "Subject": "Chemistry",
+        "Topic": "Nuclear science",
+        "Difficulty": "Hard",
+        "Marks": 15,
+        "__v": 0
+    },
+    {
+        "_id": "6557b77efade734189ab6852",
+        "Questions": "In a high-temperature gas-cooled reactor, what gas ma be used for a coolant? ",
+        "Subject": "Chemistry",
+        "Topic": "Nuclear science",
+        "Difficulty": "Hard",
+        "Marks": 15,
+        "__v": 0
+    },
+    {
+        "_id": "6557b893fade734189ab6854",
+        "Questions": ": What country currently has the third largest number of satellites in orbit?",
+        "Subject": "General Knowledge",
+        "Topic": "Current Affairs",
+        "Difficulty": "Hard",
+        "Marks": 15,
+        "__v": 0
+    },
+    {
+        "_id": "6557b8c3fade734189ab6858",
+        "Questions": " The first American Astronaut to ORBIT the Earth was? ",
+        "Subject": "General Knowledge",
+        "Topic": "Current Affairs",
+        "Difficulty": "Moderate",
+        "Marks": 10,
+        "__v": 0
+    },
+    {
+        "_id": "6557b996fade734189ab685c",
+        "Questions": "The half life of tritium is about?",
+        "Subject": "Chemistry",
+        "Topic": "Nuclear Science",
+        "Difficulty": "Moderate",
+        "Marks": 10,
+        "__v": 0
+    },
+    {
+        "_id": "655c53fde3c3b3c161d5b7c0",
+        "Questions": "The half life of tritium is about?",
+        "Subject": "Chemistry",
+        "Topic": "Nuclear Science",
+        "Difficulty": "Moderate",
+        "Marks": 10,
+        "__v": 0
+    },
+    {
+        "_id": "655d2cb3ffcf837d33ae2179",
+        "Questions": "who is the president of india ?",
+        "Subject": "General Knowledge",
+        "Topic": "current affairs",
+        "Marks": 5,
+        "__v": 0
+    },
+    {
+        "_id": "655dccc74aea86dae9133be9",
+        "Questions": "The half life of uranium is about?",
+        "Subject": "Chemistry",
+        "Topic": "Nuclear Science",
+        "Difficulty": "Moderate",
+        "Marks": 10,
+        "__v": 0
+    },
+    {
+        "_id": "655de9b30c96db2df2bc3b88",
+        "Questions": "who is the president of united kingdom ?",
+        "Subject": "General Knowledge",
+        "Topic": "current affairs",
+        "Marks": 5,
+        "__v": 0
+    },
+    {
+        "_id": "655e2c8f48266b7bed2e1bf0",
+        "Questions": "The half life of thorium is about?",
+        "Subject": "Chemistry",
+        "Topic": "Nuclear Science",
+        "Difficulty": "Moderate",
+        "Marks": 10,
+        "__v": 0
+    },
+    {
+        "_id": "655e2c8f48266b7bed2e1bf1",
+        "Questions": "The half life of plutonium is about?",
+        "Subject": "Chemistry",
+        "Topic": "Nuclear Science",
+        "Difficulty": "Moderate",
+        "Marks": 10,
+        "__v": 0
+    },
+    {
+        "_id": "655e2c9448266b7bed2e1bf5",
+        "Questions": "The half life of plutonium is about?",
+        "Subject": "Chemistry",
+        "Topic": "Nuclear Science",
+        "Difficulty": "Moderate",
+        "Marks": 10,
+        "__v": 0
+    }
+]
