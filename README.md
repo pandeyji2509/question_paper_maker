@@ -10,7 +10,8 @@ to get all the question in database
 ![2023-11-22 (3)](https://github.com/pandeyji2509/question_paper_maker/assets/96988661/07579b88-0760-4e44-a234-f78056a932a5)
 
 to add question 
-![2023-11-22 (2)](https://github.com/pandeyji2509/question_paper_maker/assets/96988661/e2cf2da3-c8f7-45ef-bdc0-09b8e78409b4)
+![2023-11-22 (6)](https://github.com/pandeyji2509/question_paper_maker/assets/96988661/c3cd4846-34d6-46e5-9ca3-5aabe3b77e9a)
+
 
 to get questions from api 
 
