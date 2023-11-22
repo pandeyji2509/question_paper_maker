@@ -29,10 +29,14 @@ app.get('/', (req, res) => {
 }); 
 
 app.post("/add_questions",async(req,res)=>{
-  const que=new questionModel(req.body);
-  try{    
-    await que.save();
-    res.send(que);
+  var ques=req.body;
+  console.log(ques);
+  try{     
+    await ques.map(async(q)=>{
+      const que=new questionModel(q);
+       await que.save();
+    }) 
+    res.send(ques);
   }catch(error){
     res.status(500).send(error);
   }
